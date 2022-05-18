@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Eden Williams"
 output: 
   html_document:
     number_sections: true
@@ -17,8 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
+I attended Quartz Hill High School and I graduated from there in 2016. I've always been pretty good at English. Math on the other hand has always been kind of a struggle for me. My best subjects in high school were English and Art History. I've always preffered classes that allowed room for some sort of creativity.
      
 
 
@@ -26,7 +25,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+I have a an HP laptop that runs windows. I would rate my computer knowledge at a 7. I'm not a complete wiz but I definitely know my way around a computer.I have pretty decent internet connection at my house. My room is a deadzone so I usually just end up doing my homework in the living room, which is pretty reliable.
    
 
 ## Others and You?   
