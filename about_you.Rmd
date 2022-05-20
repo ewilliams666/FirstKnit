@@ -14,7 +14,7 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
 I attended Quartz Hill High School and I graduated from there in 2016. I've always been pretty good at English. Math on the other hand has always been kind of a struggle for me. My best subjects in high school were English and Art History. I've always prefered classes that allowed room for some sort of creativity.
